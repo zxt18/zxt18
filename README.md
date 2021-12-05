@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zack Tan currently studying Electrical and Electronics Engineering in Imperial College London
-- 🌱 I’m currently interning at Schlumberger Technology, primarily working on software and data processing applications.
+- 🌱 I will be joining Man Group's Techonlogy Graduate Scheme in 2022
 - :books: I'm currently extending my knowledge in Machine Learning, Deep Learning, Finance and Software Development.
 
 
